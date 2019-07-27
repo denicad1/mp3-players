@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<song name="The Chain">
+		<path>src/media/Fleetwood_Mac-The_Chain.mp3</path>
+		<genre>Rock</genre>
+		<artist>Fleetwood Mac</artist>
+		<album>Rumours</album>
+	</song>
+	<song name="California Love">
+		<path>src/media/2Pac-California_Love.mp3</path>
+		<genre>Rap</genre>
+		<artist>2Pac</artist>
+		<album>All Eyez On Me</album>
+	</song>
+	<song name="Dreams">
+		<path>src/media/Fleetwood_Mac-Dreams.mp3</path>
+		<genre>Rock</genre>
+		<artist>Fleetwood Mac</artist>
+		<album>Rumours</album>
+	</song>
+	<song name="HUMBLE">
+		<path>src/media/Kendrick_Lamar-HUMBLE..mp3</path>
+		<genre>Rap</genre>
+		<artist>Kendrick Lamar</artist>
+		<album>DAMN.</album>
+	</song>
+	<song name="Dance Macabre">
+		<path>src/media/Ghost-Dance_Macabre.mp3</path>
+		<genre>Metal</genre>
+		<artist>Ghost</artist>
+		<album>Prequelle</album>
+	</song>
+	<song name="Cirice">
+		<path>src/media/Ghost-Cirice.mp3</path>
+		<genre>Metal</genre>
+		<artist>Ghost</artist>
+		<album>Meliora</album>
+	</song>
+	<song name="Fall Back Down">
+		<path>src/media/RANCID- Fall_Back_Down.mp3</path>
+		<genre>Punk</genre>
+		<artist>Rancid</artist>
+		<album>Indestructible</album>
+	</song>
+	<song name="Fiend Club">
+		<path>src/media/The_Misfits-Fiend_Club.mp3</path>
+		<genre>Punk</genre>
+		<artist>The Misfits</artist>
+		<album>Famous Monsters</album>
+	</song>
+	<song name="Centerfold">
+		<path>src/media/J._Geils_Band-Centerfold.mp3</path>
+		<genre>Rock</genre>
+		<artist>J. Geils Band</artist>
+		<album>Freeze Frame</album>
+	</song>
+	<song name="Scream">
+		<path>src/media/The_Misfits-Scream.mp3</path>
+		<genre>Punk</genre>
+		<artist>The Misfits</artist>
+		<album>Famous Monsters</album>
+	</song>
+	<song name="Ghetto Gospel">
+		<path>src/media/2pac-Ghetto_Gospel.mp3</path>
+		<genre>Rap</genre>
+		<artist>2Pac</artist>
+		<album>Loyal To The Game</album>
+	</song>
+	<song name="Float On">
+		<path>src/media/Modest_Mouse-Float_On.mp3</path>
+		<genre>Alt Rock</genre>
+		<artist>Modest Mouse</artist>
+		<album>Good News for People Who Love Bad News</album>
+	</song>
+	<song name="Barbie Girl">
+		<path>src/media/Aqua-Barbie_Girl.mp3</path>
+		<genre>Pop</genre>
+		<artist>Aqua</artist>
+		<album>Aquarium</album>
+	</song>
+	<song name="KILLSHOT">
+		<path>src/media/Eminem-KILLSHOT.mp3</path>
+		<genre>Rap</genre>
+		<artist>Eminem</artist>
+		<album>No Album</album>
+	</song>
+	
+</library>

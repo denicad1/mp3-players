@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="381.0" prefWidth="356.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.genreController">
+   <children>
+      <Button fx:id="backButton" layoutX="146.0" layoutY="309.0" mnemonicParsing="false" onMouseClicked="#back" text="Back" />
+      <ListView fx:id="genreView" layoutX="79.0" layoutY="41.0" onMouseClicked="#genreSelection" prefHeight="200.0" prefWidth="200.0" />
+      <Button fx:id="pauseButton" layoutX="214.0" layoutY="309.0" mnemonicParsing="false" onMouseClicked="#pause" text="Pause" />
+      <CheckBox fx:id="shuffleButton" layoutX="26.0" layoutY="314.0" mnemonicParsing="false" text="Shuffle" />
+   </children>
+</AnchorPane>
